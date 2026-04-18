@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "vsmineralmasonrymuralslabs",
+    "name": "VSMineralMasonry - Mineral Mural Slabs",
+    "authors": [
+        "Greenmind"
+    ],
+    "description": "Mineral mural slabs, slab crafting, slurry, granules, and burnished stone variants from VSMineralMasonry.",
+    "version": "1.22.0",
+    "dependencies": {
+        "game": "1.22.0-rc.8"
+    }
+}
