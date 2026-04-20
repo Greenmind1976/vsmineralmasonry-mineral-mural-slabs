@@ -1,12 +1,11 @@
 # VSMineralMasonry - Mineral Mural Slabs
 
-Standalone Vintage Story mod for mineral mural slabs, slurry crafting, and related burnished stone content from VSMineralMasonry.
+Standalone Vintage Story mod for mineral mural slabs and related burnished stone content from VSMineralMasonry.
 
 ## Included Content
 
 - Mineral mural slabs
 - Slab placement and cycling helpers
-- Stone slurry and granule crafting flow
 - Burnished stone variants tied to the mural slab pipeline
 
 ## Build
