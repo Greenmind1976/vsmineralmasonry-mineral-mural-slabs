@@ -1,0 +1,40 @@
+{
+  "ingredientPattern": "H\nP\nR",
+  "ingredients": {
+    "H": {
+      "type": "item",
+      "code": "game:hammer-*",
+      "isTool": true,
+      "toolDurabilityCost": 1
+    },
+    "P": {
+      "type": "item",
+      "code": "vsmineralmasonrymuralslabs:stonepolish"
+    },
+    "R": {
+      "type": "item",
+      "code": "game:stone-*",
+      "quantity": 8,
+      "name": "rock",
+      "allowedVariants": [
+        "andesite",
+        "basalt",
+        "chalk",
+        "chert",
+        "granite",
+        "limestone",
+        "phyllite",
+        "shale",
+        "slate",
+        "whitemarble"
+      ]
+    }
+  },
+  "width": 1,
+  "height": 3,
+  "output": {
+    "type": "item",
+    "code": "vsmineralmasonrymuralslabs:burnishedstone-{rock}",
+    "quantity": 8
+  }
+}
