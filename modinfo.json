@@ -6,7 +6,7 @@
     "authors": [
         "Greenmind"
     ],
-    "description": "Mineral mural slabs, slab crafting, and burnished stone variants from VSMineralMasonry.",
+    "description": "Mineral mural slabs, slab crafting, and burnished rock blocks from VSMineralMasonry.",
     "version": "1.21.0",
     "dependencies": {
         "game": "1.21.7"
