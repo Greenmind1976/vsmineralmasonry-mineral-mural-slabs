@@ -5503,25 +5503,25 @@
       "south": {
         "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}1-southface",
         "overlays": [
-          "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-southface"
+          "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-southface"
         ],
         "alternates": [
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}2-southface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-southface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-southface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}3-southface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-southface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-southface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}4-southface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-southface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-southface"
             ]
           }
         ]
@@ -5529,25 +5529,25 @@
       "north": {
         "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}1-northface",
         "overlays": [
-          "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-northface"
+          "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-northface"
         ],
         "alternates": [
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}2-northface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-northface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-northface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}3-northface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-northface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-northface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}4-northface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-northface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-northface"
             ]
           }
         ]
@@ -5555,25 +5555,25 @@
       "west": {
         "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}1-westface",
         "overlays": [
-          "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-westface"
+          "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-westface"
         ],
         "alternates": [
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}2-westface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-westface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-westface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}3-westface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-westface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-westface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}4-westface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-westface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-westface"
             ]
           }
         ]
@@ -5581,25 +5581,25 @@
       "east": {
         "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}1-eastface",
         "overlays": [
-          "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-eastface"
+          "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-eastface"
         ],
         "alternates": [
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}2-eastface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-eastface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-eastface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}3-eastface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-eastface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-eastface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}4-eastface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-eastface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-eastface"
             ]
           }
         ]
@@ -5607,25 +5607,25 @@
       "down": {
         "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}1-downface",
         "overlays": [
-          "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-downface"
+          "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-downface"
         ],
         "alternates": [
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}2-downface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-downface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-downface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}3-downface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-downface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-downface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}4-downface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-downface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-downface"
             ]
           }
         ]
@@ -5633,25 +5633,25 @@
       "up": {
         "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}1-upface",
         "overlays": [
-          "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-upface"
+          "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-upface"
         ],
         "alternates": [
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}2-upface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-upface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-upface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}3-upface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-upface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-upface"
             ]
           },
           {
             "base": "vsmineralmasonrymuralslabs:block/stone/muralslab-basefaces/{rock}4-upface",
             "overlays": [
-              "vsmineralmasonry:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-upface"
+              "vsmineralmasonrymuralslabs:block/stone/muralslab-overlays/{family}/{finish}/{mineral}/{tile}-upface"
             ]
           }
         ]
