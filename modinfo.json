@@ -9,6 +9,6 @@
     "description": "Mineral mural slabs, slab crafting, and burnished rock blocks from VSMineralMasonry.",
     "version": "1.22.0",
     "dependencies": {
-        "game": "1.22.0-rc.10"
+        "game": "1.22.0"
     }
 }

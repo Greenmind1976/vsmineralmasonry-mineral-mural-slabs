@@ -1,12 +1,21 @@
 # VSMineralMasonry - Mineral Mural Slabs
 
-Standalone Vintage Story mod for mineral mural slabs and related burnished stone content from VSMineralMasonry.
+`VSMineralMasonry - Mineral Mural Slabs` is the decorative showcase branch of Mineral Masonry.
 
-## Included Content
+It centers on mural slab surfaces and the polish workflow used to turn mineral-themed stone into display pieces, feature walls, and high-detail focal points.
+
+## What It Adds
 
 - Mineral mural slabs
 - Slab placement and cycling helpers
 - Burnished stone variants tied to the mural slab pipeline
+
+## Best Use Cases
+
+- Building feature walls, floors, and display panels
+- Highlighting ore and mineral themes in workshops, vaults, or galleries
+- Producing polished decorative stone from a dedicated crafting chain
+- Adding premium visual focal points to otherwise plain masonry builds
 
 ## Build
 
@@ -26,8 +35,10 @@ Create a distributable zip with:
 
 ## Local Install
 
-Install the built mod into your local Vintage Story app with:
+Install the built mod into your local Vintage Story app with the script for the game version you are testing:
 
 ```bash
-./build-install.sh
+./build-122-install.sh
 ```
+
+For 1.21.7 testing, use `./build-install.sh`. For final 1.22 testing, this branch targets `/Applications/Vintage Story 1.22.app` and requires Vintage Story `1.22.0`.
