@@ -35,8 +35,10 @@ Create a distributable zip with:
 
 ## Local Install
 
-Install the built mod into your local Vintage Story app with:
+Install the built mod into your local Vintage Story app with the script for the game version you are testing:
 
 ```bash
 ./build-install.sh
 ```
+
+For 1.21.7 testing, use `./build-install.sh`. For 1.22 testing, use `./build-122-install.sh` from the `support/1.22` branch.
